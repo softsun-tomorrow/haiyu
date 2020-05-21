@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 603
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 604
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  thumb D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 607
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  color D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 608
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  parent D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 609
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 603
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 604
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  thumb D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 607
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  color D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 608
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  parent D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 609
+ERROR - 2018-06-10 00:39:38 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 603
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 604
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  thumb D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 607
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  color D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 608
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  parent D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 609
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 603
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  dir D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 604
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  thumb D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 607
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  color D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 608
+ERROR - 2018-06-10 00:39:39 --> Severity: Notice  --> Undefined index:  parent D:\wwwroot\haiyu\wwwroot\application\models\cache_model.php 609
+ERROR - 2018-06-10 02:30:43 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 03:43:49 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 03:44:26 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 03:44:29 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 03:48:03 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 08:46:04 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 09:00:40 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 09:20:22 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 10:27:02 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 10:45:24 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 17:08:53 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 20:12:57 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 20:21:52 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-06-10 21:33:23 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26

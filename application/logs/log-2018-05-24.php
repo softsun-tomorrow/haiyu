@@ -1,0 +1,45 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2018-05-24 01:15:42 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:43 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:47 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:48 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:48 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:48 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:50 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:50 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:55 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:56 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:56 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:56 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:57 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:15:58 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:03 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:03 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:04 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:04 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:05 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:05 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:17 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:17 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:18 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:18 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:22 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 01:16:22 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 09:19:54 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 11:44:50 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 14:20:41 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 14:22:07 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 16:35:37 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 16:36:06 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 16:36:08 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 16:36:09 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 19:44:16 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 19:44:18 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 19:44:18 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 19:44:20 --> 404 Page Not Found --> 
+ERROR - 2018-05-24 21:39:51 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 21:39:55 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 22:28:59 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 23:06:49 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26
+ERROR - 2018-05-24 23:07:03 --> Severity: Notice  --> Undefined index:  HTTP_ACCEPT_LANGUAGE D:\wwwroot\haiyu\wwwroot\application\controllers\home.php 26

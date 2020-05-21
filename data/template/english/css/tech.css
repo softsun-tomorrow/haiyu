@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.subView0 .subItem-list {
+	width: 706px;
+	overflow: hidden;
+	position: relative;
+}
+
+.subCategory-fold .subView {
+	height: 558px;
+	max-height: 558px;
+	margin-top: 0px;
+}
+/* 国际品牌 */
+
+.subView0 .subItem-list {
+  width: 720px;
+  overflow: hidden;
+  position: relative;
+}
+.subView0 ul {
+  width: 720px;
+  height:175px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:url(../pic/tech02.jpg) no-repeat
+}
+.arrow-up ul {
+  width: 720px;
+  height:175px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:url(../pic/tech01.jpg) no-repeat
+}
+.subView0 li {
+  width: 360px;
+  height: 245px;
+  float: left;
+  overflow: hidden;
+  margin-top: -172px;
+  *display: inline;
+}
+.subView0 li a {
+  width: 360px;
+  height: 245px;
+  display: block;
+  margin: 21px;
+  position: relative;
+}
+li.first img {
+  z-index: 1;
+  position: relative;
+  top: 80px;
+  left: 120px;
+  border:none;
+}
+li.secondFir img {
+  z-index: 1;
+  position: relative;
+  top: 40px;
+  left: 114px;
+  border:none;
+}
+/* test */
+.subView0 li.secondFir {
+  margin-left: 187px;
+}
+.subView0 li.fourthFir {
+  margin-left: 70px;
+}
+.subView0 li.first {
+  margin-top: -71px;
+}
+/* 无动画方案 */
+.subView0 li span {
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  left: 0;
+  top: 0;
+  width: 360px\9;
+  height: 172px\9;
+  left: -23px\9;
+  top: 50px\9;
+  text-align: center;
+  line-height: 100px;
+  line-height: 138px\9;
+  color: #fff;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  z-index: 3;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  -webkit-backface-visibility: hidden;
+}
+.subView0 li a:hover span {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  background:url(../pic/tech-logo-hover.gif) bottom center no-repeat\9;
+}
+
+.subView0 li.secondFir a:hover span {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  background:url(../pic/tech-logo-hover.gif) top center no-repeat\9;
+}
+.subView0 li.secondFir span {
+  left: -23px\9;
+  top: -20px\9;
+  }
+.subView0 li b {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  left: 31px;
+  top: -76px;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  background-color: #fff;
+  background: none\9;
+  z-index: 2;
+  -moz-transform-origin: 50% 50%;
+  -webkit-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  -webkit-backface-visibility: hidden;
+}
+.subView0 li a:hover b {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+.subView0 li.secondFir b{top:30px; left:26px;}
+/* 无动画方案 */
+.subView0 .subItem-more {
+  width: 217px;
+  height: 23px;
+  line-height: 23px;
+  background-color: #efefef;
+  display: block;
+  position: relative;
+  margin: 15px auto 5px;
+  color: #212120;
+  text-align: center;
+}
+.subView0 .subItem-more:hover {
+  text-decoration: none;
+}
+.subView0 .menuIcon {
+  display: block;
+  width: 18px;
+  height: 18px;
+  line-height: 17px;
+  position: absolute;
+  top: 2px;
+  right: 40px;
+  color: #fff;
+  background-color: #333;
+  background-position: -99px -16px;
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+  border-radius: 9px;
+}
+.arrow-up li.secondFir {
+  margin-left: 5px;
+}
+.arrow-up li.arrow-up2 {
+  margin-left: 370px;
+}
+.subView0 li.arrow-up1 {
+margin-top: -71px;
+margin-left:184px;
+}
+.arrow-up li.arrow-up3 {
+	margin-top: -246px;
+}
